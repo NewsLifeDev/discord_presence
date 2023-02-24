@@ -9,3 +9,8 @@ liens pour creer le riche presence
  le token ce trouve sur le 1 er lien
 
  ensure discord_presence
+ #################################################################################
+ #############go to discord for more information##################################
+ https://discord.gg/UW8PDyAEvM
+ 
+ ###################################################################################
